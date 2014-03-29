@@ -1,9 +1,9 @@
 {
-  "name": "oddfellows-light-syntax",
+  "name": "oddfellows-dark-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "Light theme by @jcroft",
-  "repository": "https://github.com/jcroft/oddfellows-light-syntax",
+  "description": "Dark theme by @jcroft",
+  "repository": "https://github.com/jcroft/oddfellows-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
