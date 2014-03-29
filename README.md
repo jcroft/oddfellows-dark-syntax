@@ -1,4 +1,4 @@
-# jcroft-light-syntax theme
+# oddfellows-light-syntax theme
 
 A short description of your theme.
 

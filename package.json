@@ -1,9 +1,9 @@
 {
-  "name": "jcroft-light-syntax",
+  "name": "oddfellows-light-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/jcroft-light-syntax",
+  "version": "0.0.1",
+  "description": "Light theme by @jcroft",
+  "repository": "https://github.com/jcroft/oddfellows-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
